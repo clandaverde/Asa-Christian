@@ -2,11 +2,14 @@ body{
     font-family: "Times New Roman", Times, serif;
     background-color: rgb(36, 121, 171);
 }
+
 h1{
     color: rgb(255, 255, 255);
 }
+
 p{
-    color: rgb(255,255,255);}
+    color: rgb(255,255,255);
+}
 table{
     border-bottom: 3px solid #1A0000;
         border-top: 3px solid #1A0000;
