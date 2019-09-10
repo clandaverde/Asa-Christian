@@ -7,7 +7,8 @@ h1{
   ol {
     list-style-type: lower-roman;}
 
-  p {
+table{}
+p {
     border: 5px solid #ee3e80;
     padding: 20px;
     width: 275px;
