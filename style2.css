@@ -4,7 +4,9 @@ body{
 h1{
   background-color: #ee3e80;}
   
-  ol {
+ table{ 
+   border-width:2px;}
+ol {
     list-style-type: lower-roman;}
 
 li{
