@@ -1,6 +1,8 @@
 body{
   font-family: arial;
-  background-color: gold;}
+  background-color: rgb(185,179,175);}
+h1{
+  color: rgb(255,255,255);}
   
   ol {
     list-style-type: lower-roman;}
