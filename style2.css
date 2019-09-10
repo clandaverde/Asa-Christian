@@ -4,8 +4,13 @@ body{
 h1{
   background-color: #ee3e80;}
   
- table{ 
-   border-width:2px;}
+ table{
+
+    border-bottom: 4px solid #1A0000;
+
+    border-top: 4px solid #1A0000;
+
+}
 
 
 li{
