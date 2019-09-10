@@ -9,9 +9,14 @@ h1{
     border-bottom: 4px solid #1A0000;
 
     border-top: 4px solid #1A0000;
-
 }
-
+li{
+  border: 5px solid #ee3e80;
+  padding: 20px;
+  width: 275px;
+  border-radius: 10px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;}
 
 li{
   background-color: rgb(200,200,200);}
